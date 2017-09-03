@@ -10,7 +10,5 @@ echo "<br>";
 $disabled = ini_get('disable_functions');
 echo $disabled;
 
-$x=`ls -al`;
-echo $x;
 
 ?>

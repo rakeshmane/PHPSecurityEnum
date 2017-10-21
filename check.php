@@ -8,7 +8,7 @@ else{
 }
 echo "<br>";
 $disabled = ini_get('disable_functions');
-echo $disabled;
+echo "Disabled Functions : ".$disabled;
 
 
 ?>
